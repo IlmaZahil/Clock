@@ -1,2 +1,2 @@
 # Clock made with Python 🕰️
-Hellooooo
+Helloo
