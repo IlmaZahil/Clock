@@ -1,5 +1,6 @@
 from tkinter import *
 from tkinter.ttk import *
+from tkinter import font
 
 from time import strftime
 
@@ -11,8 +12,9 @@ def time():
     label.config(text=string)
     label.after(1000, time)
 
-label = Label(root, font=("dg-digital", 50), background = "black", foreground = "cyan")
+label = Label(root, font=("Comic Sans MS", 50), background = "black", foreground = "cyan")
 label.pack(anchor='center')
 time()
 
 mainloop()
+
