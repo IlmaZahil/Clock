@@ -1,2 +1,2 @@
 # Clock made with Python 🕰️
-Hell
+Hel
