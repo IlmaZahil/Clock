@@ -1,1 +1,1 @@
-# Clock
+# Clock made with Python 🕰️
