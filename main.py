@@ -13,6 +13,5 @@ def time():
 label = Label(root, font=("Comic Sans MS", 50), background = "black", foreground = "cyan")
 label.pack(anchor='center')
 time()
-
 mainloop()
 
