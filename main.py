@@ -4,7 +4,6 @@ from tkinter import font
 
 from time import strftime
 
-
 root = Tk()
 root.title = ("Clock")
 
